@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin Jystad 👋
 
-Here are some ideas to get you started:
+This is what I'm up to:
 
 - 👨‍💻 Digital Manager / Full-Stack Developer at UAS Norway
 - 👨‍💻 Full-Stack Developer at Elkjop Nordic AS
